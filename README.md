@@ -42,8 +42,8 @@
 ---
 
 ### 🎵 Outside of code
-- Big music fan — I play guitar (mostly rock/blues)
-- I enjoy games (single‑player and co‑op)
+- Big music fan — I play guitar (mostly rock/metal)
+- I enjoy games (single‑player (preferably) and co‑op)
 - Gym enjoyer — consistency > intensity
 
 ---
