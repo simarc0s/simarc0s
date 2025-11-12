@@ -3,6 +3,13 @@
 
 ---
 
+### About me
+- 🎓 Systems Engineering & IT Technologies student (finishing Spring 2026)
+- 🧭 Interested in web/mobile apps, algorithms, and small experiments that teach something new
+- 🛠️ I like lightweight stacks and focused projects
+  
+---
+
 ### 🔧 Tech stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
