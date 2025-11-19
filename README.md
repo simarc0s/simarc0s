@@ -42,9 +42,13 @@
   Implements both sampling and iterative methods, with configurable teleport probability. Includes utilities to export results and compare runs for analysis.  
   Repo: [simarc0s/PageRankerAI](https://github.com/simarc0s/PageRankerAI)
 
-- virtual-drumkit — a browser drum kit you can play with the keyboard or clicks.  
-  Minimal UI, responsive pads, and preloaded sounds for low‑latency hits. Built with HTML/CSS/JavaScript.  
-  Repo: [AbelFDias/virtual-drumkit](https://github.com/AbelFDias/virtual-drumkit)
+- Heredity — probabilistic genetic trait analysis using Bayesian networks.  
+  Python project that infers gene copy distributions (0/1/2) and trait expression probabilities in families; includes visualization (family tree + Bayesian network), verbose educational mode, and synthetic family generator for experimentation.  
+  Repo: [simarc0s/Heredity](https://github.com/simarc0s/Heredity)
+
+- Previsao_Carros_Usados — machine learning for used car price prediction.  
+  End‑to‑end workflow: data cleaning, feature engineering (categorical encoding, mileage/age interactions), model training (regression ensembles) and evaluation to estimate fair market values.  
+  Repo: [simarc0s/Previsao_Carros_Usados](https://github.com/simarc0s/Previsao_Carros_Usados)
 
 ---
 
