@@ -34,9 +34,9 @@
   Flutter Web app with offline‑first storage (Hive) and state with Provider; GitHub OAuth via a small Node.js proxy. Includes interactive quizzes, cultural snippets, and daily challenges.  
   Repo: [simarc0s/GoodDG](https://github.com/simarc0s/GoodDG)
 
-- McDonalds_Project — client–server app to manage burger orders.  
+- ByteBurger — client–server app to manage burger orders.  
   REST API built with Flask + JWT auth and SQLite persistence. Provides clean endpoints to create, list, update, and delete orders, with simple request/response models for quick testing.  
-  Repo: [simarc0s/McDonalds_Project](https://github.com/simarc0s/McDonalds_Project)
+  Repo: [simarc0s/ByteBurger](https://github.com/simarc0s/ByteBurger)
 
 - PageRankerAI — practical PageRank implementation and experiments.  
   Implements both sampling and iterative methods, with configurable teleport probability. Includes utilities to export results and compare runs for analysis.  
