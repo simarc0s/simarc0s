@@ -1,10 +1,10 @@
 <h2 align="center">simarc0s</h2>
-<p align="center"><samp>student — learning by building small, focused projects</samp></p>
+<p align="center"><samp>Systems Engineer | Focused on Infrastructure, Observability & Cybersecurity</samp></p>
 
 ---
 
 ### About me
-- 🎓 Systems Engineering & IT Technologies student (finishing Spring 2026)
+- 🎓 Systems Engineering & IT Technologies graduate @ UAlg
 - 🧭 Interested in web/mobile apps, algorithms, and small experiments that teach something new
 - 🛠️ I like lightweight stacks and focused projects
   
